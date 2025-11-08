@@ -1,6 +1,6 @@
 # SeaFair
 
-**Semester-long course project for CSE 416: Software Engineering**<img width="998" height="1068" alt="image" src="https://github.com/user-attachments/assets/4ff0a9f8-5ea7-433f-9f7a-afd723080089" />
+**Semester-long course project for CSE 416: Software Engineering**
 
 
 **Full-stack platform to visualize & predict U.S. election results**
@@ -20,6 +20,9 @@
 ![image](https://github.com/ylu8888/cse337_hw2/blob/2382ba25580c0f6a1f74fd8a10ee7207a0dfd9ed/hmscreen1.png)
 
 ![image](https://github.com/ylu8888/cse337_hw2/blob/a277eb8daea35b549af0d9d49a83b29ea80120e0/image.png)
+
+<img width="2048" height="875" alt="image" src="https://github.com/user-attachments/assets/ea9c7f27-25c8-43c7-86ba-bd9696096b1d" />
+
 
 
 
