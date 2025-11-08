@@ -14,3 +14,6 @@
 
 * Predict elections if the FRA will lessen Gerrymandering in Congressional elections.
 
+![image](<img width="1284" height="581" alt="image" src="https://github.com/user-attachments/assets/4cb27a51-8567-4fe9-8b1a-beb3eb6d7933" />)
+
+
