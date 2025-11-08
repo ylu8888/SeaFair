@@ -19,7 +19,7 @@
 
 ![image](https://github.com/ylu8888/cse337_hw2/blob/2382ba25580c0f6a1f74fd8a10ee7207a0dfd9ed/hmscreen1.png)
 
-![image](https://github.com/ylu8888/cse337_hw2/blob/00338fa0c03cf93a41a14dfbab09609864cdbb48/map2texas.jfif)
+![image](https://github.com/ylu8888/cse337_hw2/blob/a277eb8daea35b549af0d9d49a83b29ea80120e0/image.png)
 
 
 
