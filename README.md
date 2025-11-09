@@ -9,9 +9,9 @@
 
 * Simulate 10,000+ elections with the SeaWulf HPC Cluster utilizing the MGGG Recom Algorithm
 
-* Create plots and graphs to visualize demographics, political candidates, democratic/republican split, MMD vs SMD elections
+* Create plots/graphs to visualize demographics, democratic/republican split, MMD vs SMD elections
   
-* Explore what-if scenarios, redraw districts, and view predicted outcomes for elections
+* Explore what-if scenarios, political candidates, redraw districts, and view predicted outcomes for elections
   
 **Tech Used: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS, and QGIS**
 
