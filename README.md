@@ -5,8 +5,6 @@
 
 **Full-stack platform to visualize & predict U.S. election results if the FRA would lessen Gerrymandering in Congressional elections**
 
-**Tech Used: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS, and QGIS**
-
 * Users may view fully interactive map at state, district, precinct, and county levels
 
 * Simulate 10,000+ elections with the SeaWulf HPC Cluster utilizing the MGGG Recom Algorithm
@@ -15,7 +13,7 @@
   
 * Explore what-if scenarios, redraw districts, and view predicted outcomes for elections
   
-* Team of four worked from Aug 2024 - Dec 2024. Received final grade 100%
+**Tech Used: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS, and QGIS**
 
 ## **WEBSITE PREVIEW:**
 
