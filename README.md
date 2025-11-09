@@ -1,4 +1,4 @@
-# 🌊 SeaFair 🧭
+# 🌊 SeaFair 
 
 **Semester-long course project for CSE 416: Software Engineering**
 
@@ -15,7 +15,7 @@
   
 **💻 Tech Stack: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS, and QGIS**
 
-## **WEBSITE PREVIEW:**
+## **🧭 WEBSITE PREVIEW:**
 
 ![image](https://github.com/ylu8888/cse337_hw2/blob/2382ba25580c0f6a1f74fd8a10ee7207a0dfd9ed/hmscreen1.png)
 
