@@ -13,7 +13,7 @@
   
 * 🧩 Explore what-if scenarios, political candidates, redraw districts, and view predicted outcomes for elections
   
-**💻 Tech Stack: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS, and QGIS**
+**💻 Tech Stack: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS & QGIS**
 
 ## **🧭 WEBSITE PREVIEW:**
 
