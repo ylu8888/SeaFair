@@ -3,9 +3,9 @@
 **Semester-long course project for CSE 416: Software Engineering**
 
 
-**Full-stack platform to visualize & predict U.S. election results if the FRA will lessen Gerrymandering in Congressional elections**
+**Full-stack platform to visualize & predict U.S. election results if the FRA would lessen Gerrymandering in Congressional elections**
 
-**Tech Used: ReactJS, Spring Boot, SeaWulf HPC Cluster, MongoDB, JavaScript, Python, Java, CSS, and QGIS**
+**Tech Used: ReactJS, Java, Spring Boot, MongoDB,  SeaWulf HPC Cluster, JavaScript, Python, CSS, and QGIS**
 
 * Users may view fully interactive map at state, district, precinct, and county levels
   
