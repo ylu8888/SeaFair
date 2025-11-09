@@ -89,7 +89,7 @@
 
 <img width="2048" height="791" alt="image" src="https://github.com/user-attachments/assets/67a9788e-9369-4658-9c4c-d9cc0347d281" />
 
-##
+## **UML DIAGRAMS:**
 
 <img width="1437" height="588" alt="image" src="https://github.com/user-attachments/assets/fa333a9e-5003-4fca-ad36-dab1aac20684" />
 
