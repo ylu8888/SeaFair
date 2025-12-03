@@ -5,11 +5,11 @@
 
 **Full-stack platform to visualize & predict U.S. election results if the FRA would lessen Gerrymandering in Congressional elections**
 
-* 🗺️ Users can view fully interactive map at state, district, precinct, and county levels
+* 🗺️ Users can view fully interactive map at state, district, precinct, and county levels (QGIS) 
 
 * ⚙️ Simulate 10,000+ elections with the SeaWulf HPC Cluster utilizing the MGGG Recom Algorithm
 
-* 📊 Create plots/graphs to visualize demographics, democratic/republican split, MMD vs SMD elections
+* 📊 View charts/graphs/heatmaps to visualize demographics, republican/democratic split, & MMD vs SMD elections
   
 * 🧩 Explore what-if scenarios, political candidates, redraw districts, and view predicted outcomes for elections
   
