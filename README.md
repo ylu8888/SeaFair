@@ -83,10 +83,6 @@
 
 ##
 
-<img width="753" height="769" alt="image" src="https://github.com/user-attachments/assets/42c2a8b6-8736-4a7c-afd1-a58e69e0816c" />
-
-##
-
 <img width="743" height="575" alt="image" src="https://github.com/user-attachments/assets/0b6cd554-28cd-4118-8b88-ecae250bee34" />
 
 ##
