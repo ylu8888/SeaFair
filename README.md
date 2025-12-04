@@ -61,11 +61,11 @@
 
 <img width="1911" height="865" alt="image" src="https://github.com/user-attachments/assets/4eac12f8-7fa7-46b4-8fca-8e01c4495f33" />
 
-##
+## **QGIS**
 
 <img width="2048" height="1094" alt="image" src="https://github.com/user-attachments/assets/72adb027-ab84-4333-a2a4-eb00a8c2d35f" />
 
-##
+## **DATA VISUALIZATION**
 
 <img width="1920" height="676" alt="image" src="https://github.com/user-attachments/assets/07e36b60-d702-421b-a336-da116db57bc8" />
 
