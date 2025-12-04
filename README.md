@@ -1,6 +1,6 @@
 # 🌊 SeaFair 
 
-**Semester-long course project for CSE 416: Software Engineering**
+**Semester-long course project for CSE 416: Software Engineering. Received final grade of 100%**
 
 
 **Full-stack platform to visualize & predict U.S. election results if the FRA would lessen Gerrymandering in Congressional elections**
