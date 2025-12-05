@@ -1,6 +1,6 @@
 # 🌊 SeaFair 
 
-**Full-stack platform to visualize & predict U.S. election results if the FRA would lessen Gerrymandering in Congressional elections**
+**Full-stack platform to visualize & predict U.S. election results if the Fair Representation Act (FRA) would lessen gerrymandering in Congressional elections**
 
 * 🗺️ Users can view fully interactive map at state, district, precinct levels. Used QGIS for geospatial mapping.
 
